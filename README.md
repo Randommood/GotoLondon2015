@@ -10,6 +10,19 @@ Join us for a guided tour of our favorite agile, lean, and rugged papers. We wil
 ## Talk Outline
 See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](#).
 
+* About Us
+* Why Papers?
+* Agile Papers
+* Lean Papers
+* Rugged Papers
+* Conclusions
+* Drinks!
+
+## Awesome resources
+* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
+* [Papers We Love](http://paperswelove.org/)
+* [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
+
 
 ## References
 
@@ -25,10 +38,6 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * []()
 * []()
 
-### Awesome resources
-* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
-* [Papers We Love](http://paperswelove.org/)
-* [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
 * []()
 
 ### On Academia's process
