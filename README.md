@@ -13,33 +13,39 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * About Us
 * Why Papers?
 * Agile Papers
+  * [Software Aging](http://www.inf.ed.ac.uk/teaching/courses/seoc/2004_2005/resources/bullet11.pdf)
+  * [Fast Database Restarts at Facebook](https://research.facebook.com/publications/553456231437505/fast-database-restarts-at-facebook/)
 * Lean Papers
+  * [Scalability! But at what COST?](http://www.frankmcsherry.org/assets/COST.pdf)
+  * [ApproxHadoop: Bringing Approximations to MapReduce Frameworks](http://www.cs.rutgers.edu/~ricardob/papers/asplos15-approx.pdf)
 * Rugged Papers
+  * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
+  * [Lineage-driven Fault Injection](http://www.cs.berkeley.edu/~palvaro/molly.pdf)
 * Conclusions
 * Drinks!
-
-## Awesome resources
-* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
-* [Papers We Love](http://paperswelove.org/)
-* [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
 
 
 ## References
 
-### Agile papers
-* []()
-* []()
+Note that we use TMP to signify links from The Morning Paper.
 
-### Lean papers
-* []()
-* []()
+### Agile resources
+* [TMP: Software Aging](http://blog.acolyer.org/2014/10/14/software-aging/)
 
-### Rugged papers
-* []()
-* []()
+### Lean resources
+* [TMP: Scalability! But at what COST?](http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
+* [TMP: ApproxHadoop](http://blog.acolyer.org/2015/04/16/approxhadoop-bringing-approximations-to-mapreduce-frameworks/)
 
+### Rugged resources
+* [TMP: Lineage-driven Fault Injection](http://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
 * []()
 
 ### On Academia's process
 * https://prezi.com/r8blaru_bjer/what-uncovering-a-massive-academic-fraud-taught-me-about-how-academia-needs-to-change/
 * http://www.washingtonpost.com/rweb/api/print.html?id=46bef5da70913896a8f1ad0d817d437d
+
+## Awesome Resources!
+* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
+* [Papers We Love](http://paperswelove.org/)
+* [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
+* [Peter Bailis's Blog](http://www.bailis.org/blog/)
