@@ -29,14 +29,9 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 
 Note that we use TMP to signify links from The Morning Paper.
 
-### Agile resources
 * [TMP: Software Aging](http://blog.acolyer.org/2014/10/14/software-aging/)
-
-### Lean resources
 * [TMP: Scalability! But at what COST?](http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
 * [TMP: ApproxHadoop](http://blog.acolyer.org/2015/04/16/approxhadoop-bringing-approximations-to-mapreduce-frameworks/)
-
-### Rugged resources
 * [TMP: Lineage-driven Fault Injection](http://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
 * []()
 
