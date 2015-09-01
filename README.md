@@ -32,9 +32,12 @@ Note that we use TMP to signify links from The Morning Paper.
 * [TMP: ApproxHadoop](http://blog.acolyer.org/2015/04/16/approxhadoop-bringing-approximations-to-mapreduce-frameworks/)
 * [TMP: Lineage-driven Fault Injection](http://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
 * [Peter Alvaro's PWL SF talk - Using Reasoning about Knowledge to Analyze Distributed Systems](https://www.youtube.com/watch?v=CxZrBwhXHdo)
+* [How Adrian reads papers](http://blog.acolyer.org/2015/03/30/end-of-term-and-how-i-read-a-paper/)
+* [Desert Island Papers: Peter Alvaro](http://blog.acolyer.org/2015/02/16/desert-island-papers-peter-alvaro/)
 
-### On Academia's process
-* https://prezi.com/r8blaru_bjer/what-uncovering-a-massive-academic-fraud-taught-me-about-how-academia-needs-to-change/
+### Academia critiques
+* [David Broockman's What uncovering a massive academic fraud taught me about how academia needs to change](https://prezi.com/r8blaru_bjer/what-uncovering-a-massive-academic-fraud-taught-me-about-how-academia-needs-to-change/)
+* [The Case of the Amazing Gay-Marriage Data: How a Graduate Student Reluctantly Uncovered a Huge Scientific Fraud](http://nymag.com/scienceofus/2015/05/how-a-grad-student-uncovered-a-huge-fraud.html)
 * http://www.washingtonpost.com/rweb/api/print.html?id=46bef5da70913896a8f1ad0d817d437d
 
 ## Awesome Resources!
