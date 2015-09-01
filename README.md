@@ -22,8 +22,6 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
   * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
   * [Lineage-driven Fault Injection](http://www.cs.berkeley.edu/~palvaro/molly.pdf)
 * Conclusions
-* Drinks!
-
 
 ## References
 
@@ -33,7 +31,7 @@ Note that we use TMP to signify links from The Morning Paper.
 * [TMP: Scalability! But at what COST?](http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
 * [TMP: ApproxHadoop](http://blog.acolyer.org/2015/04/16/approxhadoop-bringing-approximations-to-mapreduce-frameworks/)
 * [TMP: Lineage-driven Fault Injection](http://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
-* []()
+* [Peter Alvaro's PWL SF talk - Using Reasoning about Knowledge to Analyze Distributed Systems](https://www.youtube.com/watch?v=CxZrBwhXHdo)
 
 ### On Academia's process
 * https://prezi.com/r8blaru_bjer/what-uncovering-a-massive-academic-fraud-taught-me-about-how-academia-needs-to-change/
