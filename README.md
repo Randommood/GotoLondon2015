@@ -34,6 +34,7 @@ Note that we use TMP to signify links from The Morning Paper.
 * [Peter Alvaro's PWL SF talk - Using Reasoning about Knowledge to Analyze Distributed Systems](https://www.youtube.com/watch?v=CxZrBwhXHdo)
 * [How Adrian reads papers](http://blog.acolyer.org/2015/03/30/end-of-term-and-how-i-read-a-paper/)
 * [Desert Island Papers: Peter Alvaro](http://blog.acolyer.org/2015/02/16/desert-island-papers-peter-alvaro/)
+* [You can't sacrifice partition tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
 
 ### Academia critiques
 * [David Broockman's What uncovering a massive academic fraud taught me about how academia needs to change](https://prezi.com/r8blaru_bjer/what-uncovering-a-massive-academic-fraud-taught-me-about-how-academia-needs-to-change/)
@@ -42,6 +43,7 @@ Note that we use TMP to signify links from The Morning Paper.
 
 ## Awesome Resources!
 * [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
-* [Papers We Love](http://paperswelove.org/)
+* [Papers We Love London](http://www.meetup.com/Papers-We-Love-London/)
+* [Papers We Love organization site](http://paperswelove.org/)
 * [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
 * [Peter Bailis's Blog](http://www.bailis.org/blog/)

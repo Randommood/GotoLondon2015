@@ -7,4 +7,6 @@
 * [Running by Melonnie Manohar](https://thenounproject.com/search/?q=runner&i=14752)
 * [Weight Lifting by Nicolas Vicent](https://thenounproject.com/search/?q=strong&i=187637)
 * [Stretching by Jessica Lock](https://thenounproject.com/search/?q=stick+figure&i=29956)
+* [friends by Arthur Shlain](https://thenounproject.com/search/?q=hello&i=53331)
 * https://www.flickr.com/photos/mathieubonnevie/7462130328
+* https://www.flickr.com/photos/103140607@N06/10334624835/
