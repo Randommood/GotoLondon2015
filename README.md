@@ -25,7 +25,7 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 
 ## References
 
-Note that we use TMP to signify links from The Morning Paper.
+Note that we use TMP to signify links from [The Morning Paper](http://blog.acolyer.org).
 
 * [TMP: Software Aging](http://blog.acolyer.org/2014/10/14/software-aging/)
 * [TMP: Scalability! But at what COST?](http://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
@@ -45,5 +45,6 @@ Note that we use TMP to signify links from The Morning Paper.
 * [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
 * [Papers We Love London](http://www.meetup.com/Papers-We-Love-London/)
 * [Papers We Love organization site](http://paperswelove.org/)
+* [Papers We Love Github](https://github.com/papers-we-love/papers-we-love)
 * [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
 * [Peter Bailis's Blog](http://www.bailis.org/blog/)
