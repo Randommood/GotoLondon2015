@@ -12,3 +12,4 @@
 * [Stretching by Jessica Lock](https://thenounproject.com/search/?q=stick+figure&i=29956)
 * [friends by Arthur Shlain](https://thenounproject.com/search/?q=hello&i=53331)
 * [Band Aid by Piger](https://thenounproject.com/piger/collection/medicine/?oq=medicine&cidx=0&i=174106)
+* [clouds by Anush Arutunyan](https://thenounproject.com/search/?q=fail&i=152172)
