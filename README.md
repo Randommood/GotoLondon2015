@@ -8,7 +8,7 @@ Surprisingly enough academic papers can be interesting and very relevant to the 
 Join us for a guided tour of our favorite agile, lean, and rugged papers. We will explore papers that have laid the foundation of Computer Science and papers that push the boundaries of what we know using the three themes of our conference as guide.
 
 ## Talk Outline
-See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](#).
+See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/agile-rugged-and-lean-the-paper-edition), and [video-soon](#).
 
 * About Us
 * Why Papers?
